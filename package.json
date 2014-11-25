@@ -1,0 +1,32 @@
+{
+  "name": "express-short-responses",
+  "version": "0.1.0",
+  "description": "express short responses",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vanwalj/express-short-responses.git"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "short",
+    "json",
+    "responses"
+  ],
+  "author": "Jordan Van Walleghem <j.vanwall@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vanwalj/express-short-responses/issues"
+  },
+  "homepage": "https://github.com/vanwalj/express-short-responses",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "express": "^4.10.4",
+    "mocha": "^2.0.1",
+    "request": "^2.48.0"
+  }
+}
